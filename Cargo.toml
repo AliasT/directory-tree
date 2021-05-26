@@ -1,9 +1,11 @@
 [package]
-name = "file-tree"
+name = "directory-tree"
 version = "0.0.1"
-license = "ISC"
+license = "MIT"
 edition = "2018"
 exclude = ["index.node"]
+description = "file tree"
+repository = "https://github.com/AliasT/directory-tree"
 
 [lib]
 crate-type = ["cdylib"]
