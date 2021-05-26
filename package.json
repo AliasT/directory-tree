@@ -1,0 +1,21 @@
+{
+  "name": "file-tree",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.node",
+  "scripts": {
+    "build": "cargo-cp-artifact -nc index.node -- cargo build --message-format=json-render-diagnostics",
+    "install": "npm run build",
+    "test": "cargo test",
+    "neon:test": "node test-neon.js",
+    "js:test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cargo-cp-artifact": "^0.1"
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.9"
+  }
+}

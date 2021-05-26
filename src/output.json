@@ -1,0 +1,177 @@
+{
+  "name": "node_modules",
+  "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules",
+  "size": 4096,
+  "children": [
+    {
+      "name": ".bin",
+      "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\.bin",
+      "size": 4096,
+      "children": [
+        {
+          "name": "cargo-cp-artifact",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\.bin\\cargo-cp-artifact",
+          "size": 352,
+          "children": []
+        },
+        {
+          "name": "cargo-cp-artifact.cmd",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\.bin\\cargo-cp-artifact.cmd",
+          "size": 347,
+          "children": []
+        },
+        {
+          "name": "cargo-cp-artifact.ps1",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\.bin\\cargo-cp-artifact.ps1",
+          "size": 893,
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": ".package-lock.json",
+      "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\.package-lock.json",
+      "size": 827,
+      "children": []
+    },
+    {
+      "name": "cargo-cp-artifact",
+      "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact",
+      "size": 4096,
+      "children": [
+        {
+          "name": ".idea",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\.idea",
+          "size": 0,
+          "children": [
+            {
+              "name": "cargo-cp-artifact.iml",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\.idea\\cargo-cp-artifact.iml",
+              "size": 281,
+              "children": []
+            },
+            {
+              "name": "modules.xml",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\.idea\\modules.xml",
+              "size": 286,
+              "children": []
+            },
+            {
+              "name": "vcs.xml",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\.idea\\vcs.xml",
+              "size": 180,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "bin",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\bin",
+          "size": 0,
+          "children": [
+            {
+              "name": "cargo-cp-artifact.js",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\bin\\cargo-cp-artifact.js",
+              "size": 103,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "LICENSE",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\LICENSE",
+          "size": 1073,
+          "children": []
+        },
+        {
+          "name": "package.json",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\package.json",
+          "size": 717,
+          "children": []
+        },
+        {
+          "name": "README.md",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\README.md",
+          "size": 3126,
+          "children": []
+        },
+        {
+          "name": "src",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\src",
+          "size": 0,
+          "children": [
+            {
+              "name": "args.js",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\src\\args.js",
+              "size": 2812,
+              "children": []
+            },
+            {
+              "name": "index.js",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\src\\index.js",
+              "size": 3062,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\test",
+          "size": 0,
+          "children": [
+            {
+              "name": "args.js",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\cargo-cp-artifact\\test\\args.js",
+              "size": 3190,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "directory-tree",
+      "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\directory-tree",
+      "size": 4096,
+      "children": [
+        {
+          "name": ".travis.yml",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\directory-tree\\.travis.yml",
+          "size": 38,
+          "children": []
+        },
+        {
+          "name": "index.d.ts",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\directory-tree\\index.d.ts",
+          "size": 1614,
+          "children": []
+        },
+        {
+          "name": "lib",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\directory-tree\\lib",
+          "size": 0,
+          "children": [
+            {
+              "name": "directory-tree.js",
+              "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\directory-tree\\lib\\directory-tree.js",
+              "size": 2860,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "package.json",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\directory-tree\\package.json",
+          "size": 662,
+          "children": []
+        },
+        {
+          "name": "README.md",
+          "path": "\\\\?\\C:\\Users\\gocha\\file-tree\\node_modules\\directory-tree\\README.md",
+          "size": 4799,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
