@@ -26,13 +26,11 @@ fn walk(dir: &Path) -> Result<FileNode> {
     let mut root: FileNode = path2node(&dir)?;
     if dir.is_dir() {
         for entry in read_dir(dir)? {
-            let entry = entry?;
-            let path = entry.path();
-
+            let path = entry?.path();
             if path.is_dir() {
                 root.children.push(walk(&path)?);
             } else {
-                let child = path2node(&entry.path())?;
+                let child = path2node(&path)?;
                 root.children.push(child);
             }
         }
